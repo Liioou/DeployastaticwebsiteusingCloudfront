@@ -6,7 +6,7 @@
 
 <h2>Description</h2>
 
-This project consist in deploying a static website with the target being a html file stored in a S3 bucket. Upon deploying we will be using Aws service Cloudfront to help cache our content. This will allow us to lower latency to better favorize customer experience. Meaning fast access to our application / content.
+This project consist in deploying a static website with the target being a html file stored in a S3 bucket. This project provides step-by-step instructions, configuration settings, and best practices to set up a static website and distribute its content efficiently using CloudFront. By leveraging the power of CloudFront, you'll benefit from reduced latency, improved global reach, and enhanced security features, elevating the user experience for your website visitors.
 
 
 <br />
